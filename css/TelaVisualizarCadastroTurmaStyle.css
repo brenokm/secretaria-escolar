@@ -1,0 +1,21 @@
+
+/* Add some basic styling to the table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.button-b{
+    background-color: aqua;
+}
+.button-r{
+    color: red;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #f0f0f0;
+}
